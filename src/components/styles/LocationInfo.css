@@ -1,0 +1,27 @@
+.name__location{
+    color:rgb(105, 226, 49);
+    padding: 0.5em;
+}
+.info {
+    
+    padding: 1em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+.info_location{
+    display: block;
+}
+.fondo{
+    background-color: #062226;
+    border-radius: 0.8em;
+    width: 40%;
+    
+}
+.container{
+   padding:1.5em;
+   display: flex;
+   align-content: center;
+   justify-content: center;
+}
