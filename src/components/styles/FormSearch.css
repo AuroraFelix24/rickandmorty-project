@@ -10,6 +10,7 @@
 button{
     background-color: rgba(40, 184, 40, 0.94);
     color:white;
+    cursor: pointer;
  }
  button:hover{
     background-color: #a5da56;
